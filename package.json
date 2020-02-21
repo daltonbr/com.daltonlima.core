@@ -6,14 +6,11 @@
     "keywords": [
         "singleton"       
       ],
-    "author": {
-        "name": "Dalton Lima",
-        "url": "www.daltonlima.com"
-    },
+    "author": "Dalton Lima",    
     "description": "Custom core package",
     "dependencies": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/daltonbr/com.daltonlima.core"        
+        "url": "https://github.com/daltonbr/com.daltonlima.core.git"        
     }
 }
