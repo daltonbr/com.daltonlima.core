@@ -1,0 +1,19 @@
+{
+    "name": "com.daltonlima.core",
+    "displayName": "DaltonLima Core package",
+    "version": "0.1.0",
+    "unity": "2019.1",
+    "keywords": [
+        "singleton"       
+      ],
+    "author": {
+        "name": "Dalton Lima",
+        "url": "www.daltonlima.com"
+    },
+    "description": "Custom core package",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daltonbr/com.daltonlima.core"        
+    }
+}
