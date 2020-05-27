@@ -1,10 +1,10 @@
 {
     "name": "com.daltonlima.core",
     "displayName": "DaltonLima Core package",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "unity": "2019.1",
     "keywords": [
-        "singleton"       
+        "singleton"
       ],
     "author": "Dalton Lima",    
     "description": "Custom core package",
