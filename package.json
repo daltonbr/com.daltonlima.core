@@ -1,16 +1,16 @@
 {
-    "name": "com.daltonlima.core",
-    "displayName": "DaltonLima Core package",
-    "version": "0.1.1",
-    "unity": "2019.1",
-    "keywords": [
-        "singleton"
-      ],
-    "author": "Dalton Lima",    
-    "description": "Custom core package",
-    "dependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/daltonbr/com.daltonlima.core.git"        
-    }
+  "name": "com.daltonlima.core",
+  "displayName": "DaltonLimaCore",
+  "version": "0.2.0",
+  "unity": "2019.1",
+  "keywords": [
+    "singleton"
+  ],
+  "author": "Dalton Lima",
+  "description": "Custom core package\nBasic Singleton implementation using generics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daltonbr/com.daltonlima.core.git"
+  },
+  "unityRelease": "1f1"
 }

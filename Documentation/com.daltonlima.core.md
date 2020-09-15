@@ -2,7 +2,7 @@
 
 This is a custom Unity Package.
 
-Currently we have a `Singleton` implementation that uses generic. It's amazingly easy to use and remove a lot of boilerplate.
+Currently we have a `Singleton` implementation that uses generic. It's amazingly easy to use and remove a lot of that same boilerplate.
 
 ## How to install
 
