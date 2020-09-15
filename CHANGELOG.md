@@ -13,3 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [0.1.1] - 2020-05-27
 
 * Bug fix in Singleton. Better handling strings when creating a new instance.
+
+## [0.2.0] - 2020-09-15
+
+* Following package layout convention

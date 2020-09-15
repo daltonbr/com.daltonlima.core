@@ -6,7 +6,9 @@
   "keywords": [
     "singleton"
   ],
-  "author": "Dalton Lima",
+  "author": {"name": "Dalton Lima",
+    "url": "https://www.daltonlima.com"
+  },
   "description": "Custom core package\nBasic Singleton implementation using generics",
   "repository": {
     "type": "git",
